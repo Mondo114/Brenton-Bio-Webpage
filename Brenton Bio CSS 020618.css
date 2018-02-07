@@ -1,0 +1,41 @@
+.container {
+    overflow: auto;
+    width: 80%;
+    margin: 15px auto;
+}
+#paragraph {
+    margin:15px;
+    padding: 15px;
+}
+h1 {
+    color:white;
+    background-color:black;
+    text-align: center;
+    margin:0;
+}
+#BrentonName {
+    padding-top:20px;
+}
+#coral {
+    float:left;
+    width:400px;
+    height:400px;
+    background-image:url("https://cdn.bestontravelnetwork.com/img/products/186/gallery/catamaran-reef-snorkel4.jpg");
+    background-size:cover;
+    background-repeat:no-repeat;
+    margin-right:20px;
+}
+#leftside {
+    float:left;
+    background-color:lightgreen;
+    margin-right:20px;
+    padding:5px;
+    width:60%;
+}
+#rightside {
+    float:right;
+    background-color:lightblue;
+    margin:0;
+    padding:5px;
+    width:35%;
+}
